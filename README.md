@@ -9,6 +9,7 @@ Open Air Interface (OAI) Startup: (Installation and Configuration of Radio Acces
 *   [OAI Roadmap](#OAI)
 
 	*	[H.W Requirements](#H.W.)
+ 	*	New OAI Interface available at https://openairinterface.org/
 	*	[Kernal Setup and Intel Driver Configuration](#kernal)
 	*	[E-UTRAN S.W. Installation](#S.W.)
 	*	[Testing Radio Access Network Connection](#RAN)
